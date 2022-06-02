@@ -1,7 +1,5 @@
 # ssb-pub
 
-**UNMAINTAINED**, for a maintained alternative to `ssb-pub`, see [`go-ssb-room`](https://github.com/ssb-ngi-pointer/go-ssb-room).
-
 easily host your own [Secure ScuttleButt (SSB)](https://www.scuttlebutt.nz) pub in a docker container
 
 if you feel like sharing your pub, please add it to [the informal registry of pubs](https://github.com/ssbc/scuttlebot/wiki/Pub-Servers) as a private pub with your contact details so newbies may request an invite from you!
